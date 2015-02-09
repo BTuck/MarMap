@@ -1,12 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IconAnimator.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BackandForth.cs">
     <Files>
-      <File FileName="Assets\IconAnimator.cs" Line="48" Column="6" />
+      <File FileName="Assets\IconAnimator.cs" Line="57" Column="98" />
       <File FileName="Assets\Scale.cs" Line="1" Column="1" />
-      <File FileName="..\..\RTS TEST\Assets\Scripts\GlowRotator.cs" Line="1" Column="1" />
-      <File FileName="..\..\RTS TEST\Assets\Scripts\Unit.cs" Line="1" Column="1" />
       <File FileName="Assets\RandomMaterial.js" Line="1" Column="1" />
+      <File FileName="Assets\BackandForth.cs" Line="8" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

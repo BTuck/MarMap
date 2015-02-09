@@ -13,12 +13,13 @@ public class IconAnimator : MonoBehaviour
 	
 	private float targetScale;
 	private Vector3 v3Scale;
+
 	// Use this for initialization
 	void Start () 
 	{
 		v3Scale = transform.localScale; 
 		GeneratedPosition();
-		transform.localScale.Equals(Random.Range(MinSize,MaxSize));
+		//transform.localScale.Equals(Random.Range(MinSize,MaxSize));
 	}
 	Vector3 GeneratedPosition()
 	{
@@ -54,6 +55,6 @@ public class IconAnimator : MonoBehaviour
 	
 		Shrink();
 		transform.localScale = Vector3.Lerp(transform.localScale, v3Scale, Time.deltaTime*shrinkSpeed);
-	
+		//transform.rotation = Quaternion.Lerp(from.rotation, to.rotation, Time.deltaTime*shrinkSpeed);
 	}
 }
