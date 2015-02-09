@@ -35,7 +35,7 @@ public class IconAnimator : MonoBehaviour
 		v3Scale = new Vector3(targetScale, targetScale, targetScale);
 		if(v3Scale.x == minScale)
 		{
-			Grow();
+			//Grow();
 		}
 	}
 
@@ -45,7 +45,7 @@ public class IconAnimator : MonoBehaviour
 		v3Scale = new Vector3(targetScale, targetScale, targetScale);
 		if(v3Scale.x == maxScale)
 		{
-			Shrink();
+			//Shrink();
 		}
 	}
 	// Update is called once per frame
