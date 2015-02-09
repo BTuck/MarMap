@@ -4,6 +4,7 @@ using System.Collections;
 public class BackandForth : MonoBehaviour 
 {
 	//Moving
+	public bool CanMove = false;
 	public Vector3 pointB;
 	public float MoveTime = 3.0f;
 	//Scaling
@@ -32,7 +33,10 @@ public class BackandForth : MonoBehaviour
 		var rate= 1.0f/time;
 		while (i < 1.0f) {
 			i += Time.deltaTime * rate;
-			thisTransform.position = Vector3.Lerp(startPos, endPos, i);
+			if(CanMove)
+			{
+				thisTransform.position = Vector3.Lerp(startPos, endPos, i);
+			}
 			transform.localScale = Vector3.Lerp(transform.localScale, v3Scale, i);
 			yield return null; 
 		}

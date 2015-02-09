@@ -1,4 +1,4 @@
-Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -19,3 +19,4 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
+Platform assembly: C:\Users\martello\GitHub\MarMap\MapMapTrunk\Test_Data\Managed\System.Core.dll (this message is harmless)
