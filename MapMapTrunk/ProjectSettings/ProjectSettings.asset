@@ -105,12 +105,12 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-  resolutionDialogBanner: {fileID: 2800000, guid: 44dbd333b31d0db438c9caae6387a0cb,
+  resolutionDialogBanner: {fileID: 2800000, guid: fc9c21230b7992a4cb80068713a9c80d,
     type: 3}
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
-    - m_Icon: {fileID: 2800000, guid: 0d66d1d30649fc840bf8bb28588b385b, type: 3}
+    - m_Icon: {fileID: 2800000, guid: fc9c21230b7992a4cb80068713a9c80d, type: 3}
       m_Size: 128
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
@@ -159,7 +159,8 @@ PlayerSettings:
   psp2PackagedResourcesPath: 
   flashStrippingLevel: 2
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    4: Map_Quest
   metroPackageName: MapMapTrunk
   metroPackageLogo: 
   metroPackageLogo140: 
@@ -252,7 +253,11 @@ PlayerSettings:
   tizenMicrophonePermissions: 0
   stvDeviceAddress: 
   wp8UnprocessedPlugins: []
-  intPropertyNames: []
+  intPropertyNames:
+  - iOS::Architecture
+  - iOS::ScriptingBackend
+  iOS::Architecture: 2
+  iOS::ScriptingBackend: 0
   firstStreamedLevelWithResources: 0
   unityRebuildLibraryVersion: 9
   unityForwardCompatibleVersion: 39
