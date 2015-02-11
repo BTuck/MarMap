@@ -14,7 +14,7 @@ Platform assembly: C:\Users\martello\GitHub\MarMap\MapMapTrunk\Test4_Data\Manage
 Loading C:\Users\martello\GitHub\MarMap\MapMapTrunk\Test4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\martello\GitHub\MarMap\MapMapTrunk\Test4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\martello\GitHub\MarMap\MapMapTrunk\Test4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.071 seconds
+- Completed reload, in  0.070 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.

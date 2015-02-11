@@ -3296,8 +3296,8 @@ MonoBehaviour:
   CanMove: 0
   pointB: {x: 0, y: 0, z: 0}
   MoveTime: 3
-  MaxScale: .0250000004
-  MinScale: .0149999997
+  MaxScale: .0350000001
+  MinScale: .0199999996
 --- !u!23 &1137518027
 Renderer:
   m_ObjectHideFlags: 0
