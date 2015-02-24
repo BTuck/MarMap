@@ -1,0 +1,17 @@
+LiveWeb for Microsoft PowerPoint 97 or later
+Copyright © 2001-2004 Shyam Pillai. 
+All rights reserved.
+
+Version	: 1.5
+URL	: http://www.mvps.org/skp/liveweb.htm
+Purpose	: Insert web pages within slides of PowerPoint and update the pages real-time during the slideshow.
+
+Licensing Policy: 
+This add-in is provided as FREEWARE. You may use and adapt this utility for your own individual projects. It is NOT distributable. You CANNOT bundle it with other individual /commercial applications without the prior consent of the author. You may not include this utility in any shareware or freeware catalogues, books, articles or periodicals without the written permission of the author. 
+
+Disclaimer: 
+All of the files available in this download are provided as-is, without any warranty or support. All use of this utility is at your own risk. The add-in has been tested with PowerPoint 97, PowerPoint 2000, PowerPoint 2002 and PowerPoint 2003 beta (with/without Service Packs) where appropriate. This does not guarantee that they will work on your machine.  
+
+
+Shyam Pillai.
+Shyam@MVPs.Org
