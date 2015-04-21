@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\BackandForth.cs" />
      <Compile Include="Assets\Scripts\IconAnimator.cs" />
      <Compile Include="Assets\Scripts\Scale.cs" />
+     <Compile Include="Assets\Scripts\SlideShow.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

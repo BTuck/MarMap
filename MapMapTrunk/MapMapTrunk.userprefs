@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Marque.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SlideShow.cs">
     <Files>
-      <File FileName="Assets\Marque.cs" Line="17" Column="11" />
-      <File FileName="Assets\BackandForth.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scale.cs" Line="1" Column="1" />
-      <File FileName="Assets\IconAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SlideShow.cs" Line="64" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
