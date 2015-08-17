@@ -4,7 +4,6 @@
 
 .email-container, .pre-header, .footer-logos, .footer-socialmedia, .footer-text {
   max-width: 800px;
-  /*background: pink */
   font-family: sans-serif;
   font-size: 10px;
   margin: 0 auto;
@@ -20,7 +19,17 @@
   color: #eee; }
 
 h1, h2, h3, h4 {
-  font-family: sans-serif; }
+  font-family: sans-serif;
+  color: #cd2127; }
+
+a {
+  text-decoration: none; }
+
+img {
+  align: right;
+  width: 40%;
+  padding: 1%;
+  display: inline; }
 
 .img-large {
   max-width: 45%;
@@ -42,9 +51,14 @@ h1, h2, h3, h4 {
 
 .footer-text p {
   margin: 2px;
-  font-size: 10px;
+  font-size: 12px;
   color: #666;
   line-height: 1;
   text-align: center; }
+.footer-text img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%; }
 
 /*# sourceMappingURL=style.css.map */
