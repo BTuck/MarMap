@@ -1,0 +1,3 @@
+cd/
+cd Ruby
+sass --watch C:/Users/martello/GitHub/MarMap/HTML/style.sass:C:/Users/martello/GitHub/MarMap/HTML/style.css
