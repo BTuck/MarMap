@@ -42,8 +42,9 @@ img, .img-header {
 
 .img-header {
   max-width: 100%;
-  padding: 0.5% 37% 0.5% 37%;
-  background-color: #003158; }
+  padding: 0% 37% 0% 37%;
+  background-color: #003158;
+  float: center; }
 
 .img-large {
   max-height: 0.5%;
