@@ -21,8 +21,10 @@ ul {
   line-height: 3; }
 
 .pre-header {
-  background: #7E8083;
-  color: #666; }
+  background: #EFEFEF;
+  color: #003158; }
+  .pre-header a {
+    font-size: 10px; }
 
 h1, h2, h3, h4 {
   margin: 22px;
@@ -43,8 +45,7 @@ img, .img-header {
 .img-header {
   max-width: 100%;
   padding: 0% 37% 0% 37%;
-  background-color: #003158;
-  float: center; }
+  background-color: #003158; }
 
 .img-large {
   max-height: 0.5%;
