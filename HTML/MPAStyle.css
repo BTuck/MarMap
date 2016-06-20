@@ -48,8 +48,9 @@ img, .img-header {
   background-color: #003158; }
 
 .img-large {
-  max-height: 0.5%;
-  padding: 0% 0% 0% 20%; }
+  max-width: 30%;
+  max-height: 5%;
+  padding: 0% 10% 0% 15%; }
 
 .img-social {
   max-width: 10%;
