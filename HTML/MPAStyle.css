@@ -2,13 +2,13 @@
   background: #EFEFEF;
   padding: 2%; }
 
-.email-container, .pre-header, .list, .footer-logos, .footer-socialmedia, .footer-text {
+.email-container, .pre-header, .list, .footer-text {
   max-width: 800px;
   font-family: Verdana, sans-serif;
   font-size: 10px;
   margin: 0 auto;
   overflow: hidden; }
-  .email-container p, .pre-header p, .list p, .footer-logos p, .footer-socialmedia p, .footer-text p, .email-container ol, .pre-header ol, .list ol, .footer-logos ol, .footer-socialmedia ol, .footer-text ol {
+  .email-container p, .pre-header p, .list p, .footer-text p, .email-container ol, .pre-header ol, .list ol, .footer-text ol {
     margin: 20px;
     font-size: 14px;
     color: #000;
@@ -29,9 +29,10 @@ ul {
 .list {
   display: inline-block;
   width: 50%; }
-  .list img {
-    max-width: 100%;
-    padding: 0%; }
+
+img {
+  max-width: 100%;
+  padding: 0%; }
 
 h1, h2, h3, h4 {
   margin: 22px;
@@ -43,19 +44,9 @@ a {
   color: #0F4375;
   font-size: 14px; }
 
-img {
-  max-width: 40%;
-  padding: 4%; }
-
-.footer-logos {
-  background: none;
-  padding: 20px;
-  font-size: 12px; }
-
-.footer-socialmedia {
-  background: none;
-  text-align: left;
-  padding: 0 0 0 5%; }
+.footer-images {
+  max-width: 80%;
+  padding: 0% 5% 0% 5%; }
 
 .footer-text p {
   margin: 2px;
