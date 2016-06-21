@@ -8,15 +8,15 @@
 	font-size: 10px
 	margin: 0 auto //Responsiveness for sides
 	overflow: hidden
+	//display: inline-block
 	//border-radius: 10px //Rounded edges
 	p, ol
 		margin : 20px
 		font-size: 14px
 		color: #000
 		line-height: 1.5
-		
 ul
-	margin : 20px
+	margin : 5%
 	font-size: 14px
 	color: #000
 	line-height: 3
@@ -27,6 +27,14 @@ ul
 	color: #003158 //Same color to hide it when on main page
 	a
 		font-size: 10px
+.list
+	@extend .email-container
+	display: inline-block
+	width: 50%
+	img
+		max-width: 100%
+		padding: 0% 
+		
 h1,h2,h3,h4
 	margin : 22px
 	font-family: Verdana, sans-serif
@@ -38,24 +46,8 @@ a
 	font-size: 14px
 	
 img
-	align: left
 	max-width: 40%
 	padding: 4%
-	float: left
-	
-.img-header
-	@extend img
-	max-width: 100%
-	padding: 0% 37% 0% 37%
-	background-color:  #003158
-	
-.img-large
-	max-width: 30% 
-	padding: 0% 10% 0%  10% 
-	
-.img-social
-	max-width: 10%
-	padding: 1% 1%
 	
 .footer-logos
 	@extend .email-container
