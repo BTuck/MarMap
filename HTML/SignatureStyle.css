@@ -31,15 +31,15 @@ ul {
   width: 50%; }
 
 img {
-  max-width: 40%;
-  padding: 0% 3% 0% 0%; }
+  max-width: 30%;
+  padding: 1% 1% 0% 1%; }
 
 .img-social {
   max-width: 5%; }
 
 .img-large {
   max-width: 100%;
-  width: 350px; }
+  width: 300px; }
 
 h1, h2, h3, h4 {
   margin: 22px;
@@ -54,7 +54,6 @@ a {
 .footer-text p {
   margin: 2px;
   font-size: 12px;
-  color: #0F4375;
   line-height: 1; }
 .footer-text a {
   text-decoration: none;
