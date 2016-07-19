@@ -38,7 +38,8 @@ img {
   max-width: 5%; }
 
 .img-large {
-  max-width: 100%;
+  max-width: 85%;
+  padding: 0% 0% 16% 5%;
   width: 300px; }
 
 h1, h2, h3, h4 {
