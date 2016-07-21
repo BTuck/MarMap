@@ -35,12 +35,13 @@ img {
   padding: 1% 1% 0% 1%; }
 
 .img-social {
-  max-width: 5%; }
+  max-width: 5%;
+  color: grey; }
 
 .img-large {
-  max-width: 85%;
-  padding: 0% 0% 16% 5%;
-  width: 300px; }
+  max-width: 90%;
+  padding: 0% 15% 44% 0%;
+  width: 200px; }
 
 h1, h2, h3, h4 {
   margin: 22px;
