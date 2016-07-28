@@ -1,10 +1,9 @@
 .email-background {
-  background: #EFEFEF;
   padding: 2%; }
 
 .email-container, .pre-header, .list, .footer-text {
   max-width: 600px;
-  font-family: Verdana, sans-serif;
+  font-family: arial, sans-serif;
   font-size: 10px;
   margin: 0 auto;
   overflow: hidden; }
@@ -31,11 +30,11 @@ ul {
   width: 50%; }
 
 img {
-  max-width: 30%;
+  max-width: 22%;
   padding: 1% 1% 0% 1%; }
 
 .img-social {
-  max-width: 5%;
+  max-width: 4%;
   color: grey; }
 
 .img-large {
@@ -45,7 +44,7 @@ img {
 
 h1, h2, h3, h4 {
   margin: 22px;
-  font-family: Verdana, sans-serif;
+  font-family: arial, sans-serif;
   color: #003158; }
 
 a {
