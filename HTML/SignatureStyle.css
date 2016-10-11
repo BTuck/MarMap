@@ -9,13 +9,13 @@
   overflow: hidden; }
   .email-container p, .pre-header p, .list p, .footer-text p, .email-container ol, .pre-header ol, .list ol, .footer-text ol {
     margin: 20px;
-    font-size: 14px;
+    font-size: 12px;
     color: #000;
     line-height: 1.5; }
 
 ul {
   margin: 5%;
-  font-size: 14px;
+  font-size: 12px;
   color: #000;
   line-height: 3; }
 
